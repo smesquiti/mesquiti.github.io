@@ -1,0 +1,26 @@
+name: "Steven Mesquiti"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Steven Mesquiti"                             # CHANGE HERE 
+  type: inverse
+  right:
+    - text: "Home"
+      icon: fa-user 
+      href: about.html
+    - text: "Select Projects"
+      href: Select_Projects.html
+    - text: "Steven's CV"
+      icon: fa-file-pdf-o
+      href: cv.html
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:smesquiti@falklab.org                    # CHANGE HERE 
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/StevenMesquiti
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/smesquiti       # CHANGE HERE 
+output:
+  html_document:
+    theme: darkly

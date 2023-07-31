@@ -20,7 +20,7 @@ navbar:
       href: https://twitter.com/StevenMesquiti
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/smesquiti       # CHANGE HERE 
+      href: https://github.com/scm1210     # CHANGE HERE 
 output:
   html_document:
     theme: darkly

@@ -6,31 +6,57 @@ title: "Steven Mesquiti, M.A."
 
 ## A little about me!
 
-I am currently a lab manager and research coordinator for the [Communication Neuroscience lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) housed in the Annenberg School Communication at the University of Pennsylvania for [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd).
+I am currently a lab manager and research coordinator for the [Communication Neuroscience lab](https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab) housed in the Annenberg School Communication at the University of Pennsylvania for [Dr. Emily Falk](https://www.asc.upenn.edu/people/faculty/emily-falk-phd). I am also **very** lucky that Emily loans me out to collaborate with researchers [Angela Duckworth](https://angeladuckworth.com/), [Lyle Ungar](https://www.seas.upenn.edu/~ungar/), and [Mark Liberman](https://www.ling.upenn.edu/~myl/) on projects using computational linguistics and social science.
+
+Prior to Penn, I was fortunate enough to play D3 college lacrosse at Southwestern University in Georgetown, TX where I received a B.A. in Psychology and met some of my best friends. My experiences on the lacrosse field have motivated my passion for science. 
+
+After SU, I went on to earn my Master's in Psychological Research from Texas State University, where I studied the implications that [motivation had on student-athlete's subjective well-being](https://digital.library.txstate.edu/bitstream/handle/10877/15608/MESQUITI-THESIS-2022.pdf?sequence=1&isAllowed=y). In addition to my Master's Program, I also worked in Dr. Jamie Pennebaker's [lab](https://www.words.live/) as a research assistant on LIWC-22 with Dr. [Sarah Seraj](https://www.linkedin.com/in/sarahseraj/). Working in Jamie's lab also transformed the way I think about studying psychology and science more broadly. That is, what can subtle shifts in one's language tell us about any individual's psychology (e.g., motivation, thinking, focus, etc.)? One line of work that came from this inquiry documents the psychological impacts of the pandemic on corporate leadership. This study analyzed the language of CEOs during company quarterly earnings calls (N = 19,536) one year before and after the onset of the pandemic.l You can read more about the CEO Project [here](https://psyarxiv.com/kvar9/).
 
 
-Prior to Penn, I was fortunate enough to play D3 college lacrosse at Southwestern University in Georgetown, TX where I received a B.A. in Psychology and met some of my best friends. My experiences on the lacrosse field got me into this whole research 'thing' :).
 
 
-After SU, I went on to earn my Master's in Psychological Research from Texas State University, where I studied the implications that [motivation had on student-athlete's subjective well-being](https://digital.library.txstate.edu/bitstream/handle/10877/15608/MESQUITI-THESIS-2022.pdf?sequence=1&isAllowed=y). In addition to my Master's Program I also worked in Dr. Jamie Pennebaker's [lab](https://www.words.live/) as a research assistant on LIWC-22 with Drs. [Sarah Seraj](https://www.linkedin.com/in/sarahseraj/) and [Kate Blackburn](https://www.kateblackburn.us/) - some of the coolest people ever! Working in Jamie's lab also transformed the way I think about studying psychology. That is, what can subtle shifts in one's language tell us about any individual's psychology (e.g., motivation, thinking, focus, etc.)?
 
+## Topics of Interest
 
-## Current work
+I am currently interested in topics like:
 
-I am currently interested in questions like:
+### Text Analysis
 
-**How does the way people talk about their goals influence their ability to complete them and consequently their well-being?**
+- Language as an attentional model
+    - That is, language can be a window into the human mind, for us (researchers) to gain insights into human affect, cognition, motivation
+    - Does the way that people respond to certain prompts allow us to predict their scores on psychological self-reports
+        - are certain prompts better at predicting certain scores on particular scales
+        - can we do this within and out of sample
+- Using large-scale social media/survey data to capture the impact of upheaval events
+    - e.g., large scale twitter or reddit data to track how the public responds to things like covid, climate change events, changes in the linguistic qualities of written text etc.
 
-**How does this vary within-person and between people?**
+### Artificial Intelligence
 
-As an aspiring research, I am interested in exploring said topics and using language analysis as a tool to gain insights on between and within-person variability in goal pursuit and well-being. In the past, I've studied things like cross-cultural differences in prosocial lying and the impact of social upheavals on business executives' decision making.
+- can we leverage LLMs to predict human scores on self-report items
+    - how well do these models predict/agree with human raters.  how can we fine tune these tasks
+    - e.g., can it detect psychological warmth, can it rate things as formal or informal
+        - how do these LLMs compare to each other as well as other methods
+            - think compassion project
 
-You can read more about the CEO Project [here](https://psyarxiv.com/kvar9/).
+### Well-being
+
+- how can we predict well-being through text analysis
+- does self-reflection increase well-being. if so, for whom and are there certain prompts that allow us to better predict well-being
+    - what dimensions of well-being can we improve?
+
+### Motivation
+
+- what dimensions of motivation (autonomous v. controlled) help people more successful in their goal pursuit
+- when people discuss pursuing their goals, what are the linguistic qualities that predict successful goal pursuit
+    - that is what types of language/words do we associate with features that predict successful goal pursuit (i.e., autonomous motivation)
+
+In the past, I've studied things like cross-cultural differences in prosocial lying and the impact of social upheavals on business executives' decision making.
+
 
 +:-------------------------+:---------------------------------------------------------+
 | ### Interests            | ### Education                                            |
 +--------------------------+----------------------------------------------------------+
-| #### - Goal Pursuit      | #### Master of the Arts in Psychological Research,       |
+| #### - Text Analysis     | #### Master of the Arts in Psychological Research,       |
 |                          |                                                          |
 |                          | 🎓 2020 - 2022                                           |
 |                          |                                                          |
@@ -42,7 +68,7 @@ You can read more about the CEO Project [here](https://psyarxiv.com/kvar9/).
 |                          |                                                          |
 |                          | ##### Southwestern University                            |
 +--------------------------+----------------------------------------------------------+
-| #### - Text Analysis     |                                                          |
+| #### -  Goal Pursuit     |                                                          |
 +--------------------------+----------------------------------------------------------+
 | #### - Well-being        |                                                          |
 +--------------------------+----------------------------------------------------------+
